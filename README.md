@@ -1,4 +1,4 @@
-test
+Test
 ====
 
-testing
+Testing how git & github works
